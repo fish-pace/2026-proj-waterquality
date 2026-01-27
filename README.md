@@ -15,7 +15,7 @@ can be shared here. Make sure to communicate so that you limit merge conflicts.
 * `data` Shared dataset can be shared here. Note, do not put large datasets on GitHub. Speak to the organizers if you 
 need to share large datasets. 
 
-## Project Name
+## Water Quality
 
 ## One-line Description
 
@@ -23,15 +23,16 @@ need to share large datasets.
 
 ## Collaborators
 
-| Name                | Role                |
-|---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Name                         | Role                |
+|------------------------------|---------------------|
+| Participant                  | Project Facilitator |
+| Jose Andres Vargas Solano    | Participant         |
+| Maria Emilia Rechimont       | Participant         |
+| Andrea Rebeca Lara Cera      | Participant         |
 
 ## Planning
 
-* Initial idea: "short description"
+* Initial idea: ""
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
 * Slack channel: fp25_proj_name
