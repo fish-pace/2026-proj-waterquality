@@ -62,6 +62,7 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 | Dataset                         | Variable                               |
 |---------------------------------|----------------------------------------|
 | PACE-Level-3-AOP                | Chla-Concentration                     |
+| PACE-Level-3-mt-global          | Spectral-indexes                       |
 | Temperature                     | Landsat???                             |
 | Nitrate (mmmol/m3)              | Copernicus Marine Services             |
 | Phosphate (mmol/m3)             | Copernicus Marine Services             |
