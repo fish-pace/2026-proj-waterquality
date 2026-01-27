@@ -1,9 +1,21 @@
-# fpyy_proj_template
+<p align="center">
+  <img src="https://images.seeklogo.com/logo-png/9/1/nasa-logo-png_seeklogo-97034.png" width="100" alt="NASA Logo"/>
+  <img src="https://pace.gsfc.nasa.gov/images/pace_rotator_emblem_2160w_800h-3.jpg" width="300" alt="PACE-OCI Logo"/>
+  <img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" width="100" alt="Jupyter Logo"/>
+</p>
 
-Template for starting Fish-PACE project repos. 
-change...
 
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+
+# PACE-Fish HackWeek  
+## Water Quality parameters in the Gulf of California
+
+</div>
+
+
+Welcome to our project! This repository contains data and analyses for the FishWeek water quality study in the Gulf of California.  
+This study focuses on the use of hyperspectral data from the PACE-OCI mission to investigate the environmental changes experienced by the Gulf on a seasonal basis.
+
+This site and all the materiales have been created for the "Fish-PACE Hackweek 2026" project. 
 
 **Folder Structure**
 
