@@ -31,6 +31,8 @@ need to share large datasets.
 
 ## One-line Description
 
+This project aims to evaluate the spatial and temporal dynamics of water quality in the Northern Gulf of California from June 2024 to June 2025 by integrating NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) hyperspectral imagery with other environmental datasets. Hyperspectral reflectance data from PACE will be processed to derive key optically-active water quality parameters, including chlorophyll-a concentration, colored dissolved organic matter (CDOM), and suspended particulate matter (SPM). The results will provide seasonal maps and time series highlighting variability in water quality across the Gulf, improving understanding of ecosystem responses to seasonal forcing and supporting long-term monitoring and management of this highly productive marine system.
+
 ## Planning
 
 ## Collaborators
