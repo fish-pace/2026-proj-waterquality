@@ -6,8 +6,8 @@
 
 
 
-# PACE-Fish HackWeek  
-## Water Quality parameters in the Gulf of California
+# PACE-Fish HackWeek 2026
+## Water Quality parameters in the Northern Gulf of California
 
 </div>
 
