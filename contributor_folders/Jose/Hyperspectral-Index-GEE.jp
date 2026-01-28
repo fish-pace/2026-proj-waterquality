@@ -1,0 +1,205 @@
+var roi = 
+    /* color: #d63000 */
+    /* shown: false */
+    /* displayProperties: [
+      {
+        "type": "rectangle"
+      }
+    ] */
+    ee.Geometry.Polygon(
+        [[[-115.24486490698925, 32.0280373070615],
+          [-115.24486490698925, 28.383116295372716],
+          [-111.81713053198925, 28.383116295372716],
+          [-111.81713053198925, 32.0280373070615]]], null, false);
+
+// ------------------------------------------------
+// 1. Load PACE OCI reference data
+// ------------------------------------------------
+var b = require('users/bzgeo/hyperspectral_toolkit:00_pkg/ref_data_pace_oci.js');
+
+// ------------------------------------------------
+// 2. ROI (assumed imported)
+// ------------------------------------------------
+Map.centerObject(roi, 6);
+Map.addLayer(roi, {color: 'yellow'}, 'Gulf of California');
+
+// ------------------------------------------------
+// 3. Load PACE OCI monthly collection
+// ------------------------------------------------
+var oci = b.pace_oci_mt_global
+  .filterBounds(roi)
+  .filterDate('2024-06-01', '2025-06-30');
+
+// ------------------------------------------------
+// 4. OCI wavelengths (nm)
+// ------------------------------------------------
+var ociWavelengths = ee.List.sequence(350, 890, 5);
+
+// ------------------------------------------------
+// 5. Helper: closest band to wavelength
+// ------------------------------------------------
+function bandAtWavelength(img, targetNm) {
+  var diffs = ociWavelengths.map(function(w) {
+    return ee.Number(w).subtract(targetNm).abs();
+  });
+  var idx = diffs.indexOf(diffs.reduce(ee.Reducer.min()));
+  return ee.String(img.bandNames().get(idx));
+}
+
+// ------------------------------------------------
+// 6. Hyperspectral processing
+// ------------------------------------------------
+function processOCI(img) {
+
+  // ---- Reflectance bands ----
+  var r490 = img.select(bandAtWavelength(img, 490));
+  var r560 = img.select(bandAtWavelength(img, 560));
+  var r665 = img.select(bandAtWavelength(img, 665));
+  var r705 = img.select(bandAtWavelength(img, 705));
+  var r740 = img.select(bandAtWavelength(img, 740));
+  var r865 = img.select(bandAtWavelength(img, 865));
+
+  // ------------------------------------------------
+  // 1. Water mask (robust + conservative)
+  // ------------------------------------------------
+
+  // Classic NDWI (broad, stable)
+  var ndwiClassic = r560.subtract(r865)
+                        .divide(r560.add(r865));
+
+  // Hyperspectral curvature NDWI
+  var ndwiHyp = r560.subtract(
+    r490.add(r665).divide(2)
+  );
+
+  // Combined mask (handles clear water + turbid water)
+  var waterMask = ndwiClassic.gt(0)
+                    .or(ndwiHyp.gt(-0.005));
+
+  // ------------------------------------------------
+  // 2. Normalized hyperspectral indices
+  // ------------------------------------------------
+
+  // Chlorophyll Line Height (normalized)
+  var clh = r705.subtract(
+    r665.add(
+      r740.subtract(r665)
+          .multiply(705 - 665)
+          .divide(740 - 665)
+    )
+  ).divide(r705.add(r665).add(r740))
+   .rename('CLH_norm');
+
+  // CI-green (bounded)
+  var ciGreen = r560.subtract(r490)
+                    .divide(r560.add(r490))
+                    .rename('CI_green');
+
+  // Hyperspectral turbidity (bounded)
+  var ndsmi = r705.subtract(r665)
+                  .divide(r705.add(r665))
+                  .rename('NDSMI');
+
+  // Particle scattering slope (scaled)
+  var redNirSlope = r865.subtract(r665)
+                        .divide(200)
+                        .rename('RedNIR_slope');
+
+  // TSS proxy (log-scaled)
+  var tss = r665.divide(r560)
+                .log()
+                .rename('log_TSS');
+
+  // ------------------------------------------------
+  // 3. Return masked image
+  // ------------------------------------------------
+  return img
+    .addBands([
+      ndwiClassic.rename('NDWI'),
+      ndwiHyp.rename('NDWI_hyp'),
+      clh,
+      ciGreen,
+      ndsmi,
+      redNirSlope,
+      tss
+    ])
+    .updateMask(waterMask)
+    .set('system:time_start', img.get('system:time_start'));
+}
+
+// ------------------------------------------------
+// 7. Apply processing
+// ------------------------------------------------
+var oci_hyp = oci.map(processOCI);
+
+// ------------------------------------------------
+// 8. Visualization parameters (stable ranges)
+ // ------------------------------------------------
+var clhVis = {
+  min: -0.02, max: 0.05,
+  palette: ['purple', 'blue', 'cyan', 'green', 'yellow', 'red']
+};
+
+var ciVis = {
+  min: -0.5, max: 0.5,
+  palette: ['navy', 'blue', 'cyan', 'green', 'yellow']
+};
+
+var ndsmiVis = {
+  min: -0.2, max: 0.4,
+  palette: ['blue', 'yellow', 'red']
+};
+
+var slopeVis = {
+  min: -0.001, max: 0.003,
+  palette: ['blue', 'white', 'red']
+};
+
+// ------------------------------------------------
+// 9. Display layers
+// ------------------------------------------------
+var size = oci_hyp.size().getInfo();
+var list = oci_hyp.toList(size);
+
+for (var i = 0; i < size; i++) {
+  var img = ee.Image(list.get(i));
+  var date = ee.Date(img.get('system:time_start'))
+                .format('YYYY-MM-dd')
+                .getInfo();
+
+  Map.addLayer(img.select('CLH_norm').clip(roi),
+    clhVis, 'CLH_norm ' + date, i === 0);
+
+  Map.addLayer(img.select('CI_green').clip(roi),
+    ciVis, 'CI_green ' + date, false);
+
+  Map.addLayer(img.select('NDSMI').clip(roi),
+    ndsmiVis, 'NDSMI ' + date, false);
+
+  Map.addLayer(img.select('RedNIR_slope').clip(roi),
+    slopeVis, 'Red–NIR slope ' + date, false);
+}
+
+// ------------------------------------------------
+// 10. Time-series plots
+// ------------------------------------------------
+function plotIndex(band, title) {
+  print(
+    ui.Chart.image.series({
+      imageCollection: oci_hyp.select(band),
+      region: roi,
+      reducer: ee.Reducer.mean(),
+      scale: 4000
+    }).setOptions({
+      title: title,
+      lineWidth: 2,
+      pointSize: 4
+    })
+  );
+}
+
+plotIndex('CLH_norm', 'Normalized Chlorophyll Line Height');
+plotIndex('CI_green', 'CI-green (Normalized)');
+plotIndex('NDSMI', 'NDSMI (Turbidity)');
+plotIndex('RedNIR_slope', 'Red–NIR Slope');
+plotIndex('log_TSS', 'Log TSS Proxy');
