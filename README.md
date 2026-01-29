@@ -84,7 +84,7 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 
 ## Workflow/Roadmap
 
-Workflow Proposal for the Analysis of Water Quality Dynamics through Seasons in the Northern Gulf of California
+Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024/25 in the Northern Gulf of California
 
 <img width="1779" height="1188" alt="diagram-export-1-29-2026-12_54_27-PM" src="https://github.com/user-attachments/assets/a8f91089-10c1-45df-a027-4f954908428e" />
 
