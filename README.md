@@ -39,17 +39,16 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 
 | Name                         | Role                |
 |------------------------------|---------------------|
-| Participant                  | Project Facilitator |
-| Jose Andres Vargas Solano    | Participant         |
+| Jose Andres Vargas Solano    | Project Facilitator |
 | Maria Emilia Rechimont       | Participant         |
 | Andrea Rebeca Lara Cera      | Participant         |
 
 ## Planning
 
-* Initial idea: ""
+* Initial idea: "Water Quality - Pollution and Illegal Water Discharge Detection"
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
+* Slack channel: #proj-water-quality
 * Project google drive: Add link
 * Final presentation: Add link
 
