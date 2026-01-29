@@ -63,11 +63,24 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 |---------------------------------|----------------------------------------|
 | PACE-Level-3-AOP                | Chla-Concentration                     |
 | PACE-Level-3-mt-global          | Spectral-indexes                       |
-| Temperature                     | Landsat???                             |
+| Temperature                     | Landsat-09                             |
 | Nitrate (mmmol/m3)              | Copernicus Marine Services             |
 | Phosphate (mmol/m3)             | Copernicus Marine Services             |
 | Silicate (mmol/m3)              | Copernicus Marine Services             |
 | Salinity                        | Copernicus Marine Services             |
+
+## Spectral-indexes (Multi and hyperspectral)
+
+| Spectral index                        | Formula                                                               |                  |    
+|---------------------------------------|-----------------------------------------------------------------------|----------------- |
+| Normalized Difference Water Index     | \mathrm{NDCI} = \frac{R_{705} - R_{665}}{R_{705} + R_{665}}           ||
+| PACE-Level-3-mt-global                | Spectral-indexes                       ||
+| Temperature                           | Landsat-09                             ||
+| Nitrate (mmmol/m3)                    | Copernicus Marine Services             ||
+| Phosphate (mmol/m3)                   | Copernicus Marine Services             ||
+| Silicate (mmol/m3)                    | Copernicus Marine Services             ||
+| Salinity                              | Copernicus Marine Services             ||
+
 
 ## Workflow/Roadmap
 
