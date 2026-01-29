@@ -66,7 +66,7 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 | Nitrate (mmmol/m3)              | Copernicus Marine Services             |
 | Phosphate (mmol/m3)             | Copernicus Marine Services             |
 | Silicate (mmol/m3)              | Copernicus Marine Services             |
-| Salinity                        | Copernicus Marine Services             |
+
 
 ## Spectral-indexes (Multi and hyperspectral)
 
