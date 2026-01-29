@@ -71,15 +71,15 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 
 ## Spectral-indexes (Multi and hyperspectral)
 
-| Spectral index                        | Formula                                                               |                  |    
-|---------------------------------------|-----------------------------------------------------------------------|----------------- |
-| Normalized Difference Water Index     | $NDCI = \frac{R_{705} - R_{665}}{R_{705} + R_{665}}$          ||
-| PACE-Level-3-mt-global                | Spectral-indexes                       ||
-| Temperature                           | Landsat-09                             ||
-| Nitrate (mmmol/m3)                    | Copernicus Marine Services             ||
-| Phosphate (mmol/m3)                   | Copernicus Marine Services             ||
-| Silicate (mmol/m3)                    | Copernicus Marine Services             ||
-| Salinity                              | Copernicus Marine Services             ||
+| Spectral index                              |  Formula                                                                                          | References                         |    
+|---------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------|
+| Normalized Difference Water Index           | $NDWI = \frac{R_{560} - R_{865}}{R_{560} + R_{865}}$                                              | McFeeters, S. K. (1996)            |
+| Normalized Difference Turbidity Index       | $NDTI = \frac{R_{865} - R_{665}}{R_{865} + R_{665}}$                                              | Nechad, B. et al. (2010)           |
+| Normalized Difference Chlorophyll Index     | $NDCI = \frac{R_{705} - R_{665}}{R_{705} + R_{665}}$                                              | Mishra, S., & Mishra, D. R. (2012) |
+| Total Suspended Solids Ratio                | $TSS\_ratio = \frac{R_{665}}{R_{560}}$                                                            | Dogliotti, A. I., et al. (2015)    |
+| Chlorophyll Index (Green)                   | $CI_{green} = \frac{R_{560} - R_{490}}{R_{560} + R_{490}}$                                        | Gitelson, A. A., et al. (2003)     |
+| Normalized Difference Suspended Matter Index| $NDSMI = \frac{R_{705} - R_{665}}{R_{705} + R_{665}}$                                             | Ruddick, K., et al. (2000).        |
+| Normalized Chlorophyll Height               | $CLH = R_{705} - \left[ R_{665} + \frac{(R_{740} - R_{665}) \cdot (705 - 665)}{740 - 665} \right]$| Bramich et al. (2021)              |
 
 
 ## Workflow/Roadmap
