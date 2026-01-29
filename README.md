@@ -94,15 +94,17 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 ## Lessons Learned
 
 ## References
+
 <small>
-**1.** McFeeters, S. K. (1996). The use of the Normalized Difference Water Index (NDWI) in remote sensing of vegetation and water features. International Journal of Remote Sensing, 17(7), 1425–1432.  
-**2.** Dogliotti, A. I., Ruddick, K. G., Nechad, B., & Doxaran, D. (2015). A single algorithm to retrieve turbidity from remotely-sensed data in all coastal and estuarine waters. Remote Sensing of Environment, 156, 157–168.  
-**3.** Mishra, S., & Mishra, D. R. (2012). Normalized Difference Chlorophyll Index: A novel model for remote estimation of chlorophyll-a concentration in turbid productive waters. Remote Sensing of Environment, 117, 394–406.  
-**4.** Ruddick, K., Ovidio, F., & Rijkeboer, M. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651.  
-**5.** Gitelson, A. A., Gritz, Y., & Merzlyak, M. N. (2003). Relationships between leaf chlorophyll content and spectral reflectance and algorithms for non-destructive chlorophyll assessment in higher plant leaves. Journal of Plant Physiology, 160(3), 271–282.  
-**6.** Ruddick, K., et al. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651.  
-**7.** Bramich, N. J., et al. (2021). A method for estimating chlorophyll content from reflectance spectra using the chlorophyll height technique. Remote Sensing, 13(9), 1738.
+<b>1.</b> McFeeters, S. K. (1996). The use of the Normalized Difference Water Index (NDWI) in remote sensing of vegetation and water features. International Journal of Remote Sensing, 17(7), 1425–1432.<br>
+<b>2.</b> Dogliotti, A. I., Ruddick, K. G., Nechad, B., & Doxaran, D. (2015). A single algorithm to retrieve turbidity from remotely-sensed data in all coastal and estuarine waters. Remote Sensing of Environment, 156, 157–168.<br>
+<b>3.</b> Mishra, S., & Mishra, D. R. (2012). Normalized Difference Chlorophyll Index: A novel model for remote estimation of chlorophyll-a concentration in turbid productive waters. Remote Sensing of Environment, 117, 394–406.<br>
+<b>4.</b> Ruddick, K., Ovidio, F., & Rijkeboer, M. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651.<br>
+<b>5.</b> Gitelson, A. A., Gritz, Y., & Merzlyak, M. N. (2003). Relationships between leaf chlorophyll content and spectral reflectance and algorithms for non-destructive chlorophyll assessment in higher plant leaves. Journal of Plant Physiology, 160(3), 271–282.<br>
+<b>6.</b> Ruddick, K., et al. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651.<br>
+<b>7.</b> Bramich, N. J., et al. (2021). A method for estimating chlorophyll content from reflectance spectra using the chlorophyll height technique. Remote Sensing, 13(9), 1738.
 </small>
+
 
 
 
