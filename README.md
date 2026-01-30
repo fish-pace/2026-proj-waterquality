@@ -103,11 +103,11 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 ## Reference sites
 
 <ol>
-  <li>.</b> Awesome spectral indexes (Multispectral indexes library): 
+  <li></b> Awesome spectral indexes (Multispectral indexes library): 
     https://github.com/awesome-spectral-indices/awesome-spectral-indices</li>
-  <li>.</b> The PACE OCI Toolkit (GEE cloud access) Level-3 Global: 
+  <li></b> The PACE OCI Toolkit (GEE cloud access) Level-3 Global: 
     https://github.com/BzGEO/pace_oci_toolkit/tree/main/_code_js</li>
-  <li>.</b> Copernicus Marine Services (Nutrient concentration - Global Ocean Physics Analysis and Forecast): 
+  <li></b> Copernicus Marine Services (Nutrient concentration - Global Ocean Physics Analysis and Forecast): 
     https://data.marine.copernicus.eu/products?disc=facets&pk_vid=c1b283edb0316aa017697826397c99da</li>
 </ol>
 
