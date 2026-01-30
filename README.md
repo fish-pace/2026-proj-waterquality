@@ -100,6 +100,11 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 
 ## Lessons Learned
 
+## Reference sites
+
+Awesome spectral indexes (Multispectral indexes library): https://github.com/awesome-spectral-indices/awesome-spectral-indices
+The PACE OCI Tookit (GEE cloud access) Level-3 Global: https://github.com/BzGEO/pace_oci_toolkit/tree/main/_code_js
+
 ## References
 
 <small>
