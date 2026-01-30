@@ -57,7 +57,7 @@ A regionalization of the GC can be described based on three main influences: the
 * Ideation Presentation: Add link
 * Slack channel: #proj-water-quality
 * Project google drive: Add link
-* Final presentation: Add link
+* Final presentation: https://docs.google.com/presentation/d/1fUqZA8uQxK0IU_C_94-BIHaVlJl0HllQ/edit?usp=sharing&ouid=117964650207631204615&rtpof=true&sd=true
 
 ## Background
 
