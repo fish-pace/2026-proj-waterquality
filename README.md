@@ -53,7 +53,7 @@ A regionalization of the GC can be described based on three main influences: the
 ## Planning
 
 * Initial idea: "Water Quality - Pollution and Illegal Water Discharge Detection"
-* Ideation jam board: Add link
+* Ideation jam board: https://docs.google.com/presentation/d/12q0pR__0EPRSHUYNb3KnKEOb08HT4t3K/edit?slide=id.g3bb96716805_1_0#slide=id.g3bb96716805_1_0
 * Ideation Presentation: Add link
 * Slack channel: #proj-water-quality
 * Project google drive: Add link
