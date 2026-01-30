@@ -98,18 +98,37 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 
 ## Results/Findings
 
+<p align="center">
 The main results of this study are presented below.
+</p>
 
-<b>1.</b> Chlorophyll mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
-<img width="668" height="407" alt="image" src="https://github.com/user-attachments/assets/5877ab3a-c151-41da-bed3-39c4f6ebb2ec" />
+<div align="center">
+  <b>1.</b> Chlorophyll mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <br><br>
+  <img width="668" height="407" alt="image" src="https://github.com/user-attachments/assets/5877ab3a-c151-41da-bed3-39c4f6ebb2ec" />
+</div>
 
-<b>2.</b> Chlorophyll mean concentration (mg/m³) (Transect) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
-<img width="703" height="310" alt="image" src="https://github.com/user-attachments/assets/2cc3197e-ca71-4044-a7fa-c034935b1fd7" />
+<br>
 
-<b>3.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
-<img width="870" height="355" alt="Screenshot 2026-01-30 at 15 25 29" src="https://github.com/user-attachments/assets/03f2f2de-5698-4c6d-a6e2-550dbd69a278" />
+<div align="center">
+  <b>2.</b> Chlorophyll mean concentration (mg/m³) (transect) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <br><br>
+  <img width="703" height="310" alt="image" src="https://github.com/user-attachments/assets/2cc3197e-ca71-4044-a7fa-c034935b1fd7" />
+</div>
 
-<b>4.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+<br>
+
+<div align="center">
+  <b>3.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <br><br>
+  <img width="870" height="355" alt="Screenshot 2026-01-30 at 15 25 29" src="https://github.com/user-attachments/assets/03f2f2de-5698-4c6d-a6e2-550dbd69a278" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>4.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+</div>
 
 
 
