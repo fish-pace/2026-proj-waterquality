@@ -137,7 +137,7 @@ The main results of this study are presented below.
 <div align="center">
   <b>5.</b> Chlorophyll-related indices were calculated using the surface reflectance from Level-3 PACE OCI (4 km).
   <br><br>
-  <img width="682" height="409" alt="Screenshot 2026-01-30 at 15 44 33" src="https://github.com/user-attachments/assets/b744bd5d-913d-45d1-a568-f447e809c316" />
+  <<img src="https://github.com/user-attachments/assets/b744bd5d-913d-45d1-a568-f447e809c316" alt="Screenshot 2026-01-30 at 15 44 33" width="341" height="205" />
 </div>
 
 
