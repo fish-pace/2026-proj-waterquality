@@ -93,7 +93,7 @@ A regionalization of the GC can be described based on three main influences: the
 
 Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024/25 in the Northern Gulf of California
 
-<img width="1779" height="1188" alt="diagram-export-1-29-2026-12_54_27-PM" src="https://github.com/user-attachments/assets/a8f91089-10c1-45df-a027-4f954908428e" />
+<img width="689" height="585" alt="Screenshot 2026-01-30 at 18 47 55" src="https://github.com/user-attachments/assets/9f511d7b-acee-48d4-968f-b47d93fff134" />
 
 
 ## Results/Findings
