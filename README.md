@@ -98,6 +98,15 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 
 ## Results/Findings
 
+Below are the principal results of this short research: 
+
+<b>1. Chlorophyll concentration (mg/m3) from June 2024 to June 2025. 
+
+<img width="668" height="407" alt="image" src="https://github.com/user-attachments/assets/5877ab3a-c151-41da-bed3-39c4f6ebb2ec" />
+
+
+
+
 ## Lessons Learned
 
 ## Reference sites
