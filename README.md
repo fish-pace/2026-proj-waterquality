@@ -111,9 +111,8 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 <b>6.</b> Ruddick, K., et al. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651. [DOI](https://doi.org/10.1080/01431160050029498)<br>
 <b>7.</b> Bramich, N. J., et al. (2021). A method for estimating chlorophyll content from reflectance spectra using the chlorophyll height technique. Remote Sensing, 13(9), 1738. [DOI](https://doi.org/10.3390/rs13091738)<br>
 <b>8.</b>López-Martínez, J., Farach Espinoza, E. B., Herrera Cervantes, H., & García Morales, R. (2023). Long-Term Variability in Sea Surface Temperature and Chlorophyll a Concentration in the Gulf of California. Remote Sensing, 15(16), 4088. [DOI] (https://doi.org/10.3390/rs15164088)<br>
-<b>9.</b>Marín-Enríquez, E., Cruz-Escalona, V. H., Enríquez-García, A. B., & Félix-Ortiz, J. A. (2024). Physical geographic regions in the Gulf of California defined using unsupervised learning algorithms. Regional Studies in Marine Science, 80, 103923. [DOI] (https://doi.org/10.1016/j.rsma.2024.103923)
-</small>
-<b>10.</b>Marín‑Enríquez, E., Cruz‑Escalona, V. H., Enríquez‑García, A. B., & Félix‑Ortiz, J. A. (2024). Physical geographic regions in the Gulf of California defined using unsupervised learning algorithms. Regional Studies in Marine Science, 80, 103923. [DOI] (https://doi.org/10.1016/j.rsma.2024.103923)
+<b>9.</b>Marín-Enríquez, E., Cruz-Escalona, V. H., Enríquez-García, A. B., & Félix-Ortiz, J. A. (2024). Physical geographic regions in the Gulf of California defined using unsupervised learning algorithms. Regional Studies in Marine Science, 80, 103923. [DOI] (https://doi.org/10.1016/j.rsma.2024.103923)<br>
+<b>10.</b>Marín‑Enríquez, E., Cruz‑Escalona, V. H., Enríquez‑García, A. B., & Félix‑Ortiz, J. A. (2024). Physical geographic regions in the Gulf of California defined using unsupervised learning algorithms. Regional Studies in Marine Science, 80, 103923. [DOI] (https://doi.org/10.1016/j.rsma.2024.103923)</small>
 
 
 
