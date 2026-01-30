@@ -127,11 +127,6 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>4.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
-</div>
-
-<br>
-<div align="center">
   <b>5.</b> Silicate concentration (mmol/m³) in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
   <br><br>
   <img width="682" height="409" alt="Screenshot 2026-01-30 at 15 29 35" src="https://github.com/user-attachments/assets/c93a07c8-b320-46ca-805e-0ae3d51e71a4" />
