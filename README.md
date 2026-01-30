@@ -101,11 +101,10 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 The main results of this study are presented below.
 
 <b>1.</b> Chlorophyll mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
-
 <img width="668" height="407" alt="image" src="https://github.com/user-attachments/assets/5877ab3a-c151-41da-bed3-39c4f6ebb2ec" />
 
-<b>2.</b> Water Surface Temperature (oC) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
 
+<b>2.</b> Water Surface Temperature (oC) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
 <img width="870" height="355" alt="Screenshot 2026-01-30 at 15 25 29" src="https://github.com/user-attachments/assets/03f2f2de-5698-4c6d-a6e2-550dbd69a278" />
 
 
