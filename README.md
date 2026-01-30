@@ -33,6 +33,13 @@ need to share large datasets.
 
 This project aims to evaluate the spatial and temporal dynamics of water quality in the Northern Gulf of California from June 2024 to June 2025 by integrating NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) hyperspectral imagery with other environmental datasets. Hyperspectral reflectance data from PACE will be processed to derive key optically-active water quality parameters, including chlorophyll-a concentration, colored dissolved organic matter (CDOM), and suspended particulate matter (SPM). The results will provide seasonal maps and time series highlighting variability in water quality across the Gulf, improving understanding of ecosystem responses to seasonal forcing and supporting long-term monitoring and management of this highly productive marine system.
 
+## Study-Area
+
+The Gulf of California (GC) is the only interior sea of the Eastern Pacific Ocean and represents the most important fishing area in the northwestern Pacific region. Its location in a temperate–tropical transition zone gives rise to complex climatic, oceanographic, and ecological conditions that strongly influence regional productivity and biodiversity.
+A regionalization of the GC can be described based on three main influences: the northern region affected by discharge from the Colorado River, the central region dominated by island systems, and the southern entrance where two major ocean currents converge. In the upper Gulf, the influence of the Colorado River drives water quality patterns that vary seasonally; however, identifying specific anomalies in these patterns requires detailed in situ observations (Lopez-Martínez et al., 2023; Marín-Enriquez et al., 2024). 
+
+
+
 ## Planning
 
 ## Collaborators
@@ -101,7 +108,9 @@ Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024
 <b>4.</b> Ruddick, K., Ovidio, F., & Rijkeboer, M. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651. [DOI](https://doi.org/10.1080/01431160050029498)<br>
 <b>5.</b> Gitelson, A. A., Gritz, Y., & Merzlyak, M. N. (2003). Relationships between leaf chlorophyll content and spectral reflectance and algorithms for non-destructive chlorophyll assessment in higher plant leaves. Journal of Plant Physiology, 160(3), 271–282. [DOI](https://doi.org/10.1078/0176-1617-00887)<br>
 <b>6.</b> Ruddick, K., et al. (2000). Atmospheric correction of SeaWiFS imagery for turbidity and chlorophyll retrieval in coastal waters. International Journal of Remote Sensing, 21(8), 1637–1651. [DOI](https://doi.org/10.1080/01431160050029498)<br>
-<b>7.</b> Bramich, N. J., et al. (2021). A method for estimating chlorophyll content from reflectance spectra using the chlorophyll height technique. Remote Sensing, 13(9), 1738. [DOI](https://doi.org/10.3390/rs13091738)
+<b>7.</b> Bramich, N. J., et al. (2021). A method for estimating chlorophyll content from reflectance spectra using the chlorophyll height technique. Remote Sensing, 13(9), 1738. [DOI](https://doi.org/10.3390/rs13091738)<br>
+<b>8.</b>López-Martínez, J., Farach Espinoza, E. B., Herrera Cervantes, H., & García Morales, R. (2023). Long-Term Variability in Sea Surface Temperature and Chlorophyll a Concentration in the Gulf of California. Remote Sensing, 15(16), 4088. [DOI] (https://doi.org/10.3390/rs15164088)<br>
+<b>9.</b>Marín-Enríquez, E., Cruz-Escalona, V. H., Enríquez-García, A. B., & Félix-Ortiz, J. A. (2024). Physical geographic regions in the Gulf of California defined using unsupervised learning algorithms. Regional Studies in Marine Science, 80, 103923. [DOI] (https://doi.org/10.1016/j.rsma.2024.103923)
 </small>
 
 
