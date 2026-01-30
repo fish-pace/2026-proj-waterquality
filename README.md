@@ -86,6 +86,7 @@ A regionalization of the GC can be described based on three main influences: the
 | Chlorophyll Index (Green)                   | $CI_{green} = \frac{R_{560} - R_{490}}{R_{560} + R_{490}}$                                        | Gitelson, A. A., et al. (2003)     |
 | Normalized Difference Suspended Matter Index| $NDSMI = \frac{R_{705} - R_{665}}{R_{705} + R_{665}}$                                             | Ruddick, K., et al. (2000).        |
 | Normalized Chlorophyll Height               | $CLH = R_{705} - \left[ R_{665} + \frac{(R_{740} - R_{665}) \cdot (705 - 665)}{740 - 665} \right]$| Bramich et al. (2021)              |
+| Normalized Maximum Chlorophyll Index        | $MCI_{norm} = \frac{R_{709} - \left[ R_{681} + \frac{(R_{753} - R_{681}) \cdot (709 - 681)}{753 - 681} \right]}{R_{681} + R_{709} + R_{753}}$| Gower et al. (2005)                |
 
 
 ## Workflow/Roadmap
