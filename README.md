@@ -146,16 +146,16 @@ The main results of this study are presented below.
   <b>6.</b> Chlorophyll High Line Spectral (CHL) Index in the Northern Gulf of California from June 2024 to May 2025.
   <br><br>
 
-  <img width="300"
+  <img width="180"
        alt="HLSI animation"
        src="https://github.com/user-attachments/assets/9afc3b19-344b-447b-8d3b-4af1494f3aa1" />
 </div>
 
 <div align="center">
-  <b>6.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025.
+  <b>7.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025.
   <br><br>
 
-  <img width="300"
+  <img width="180"
        alt="HLSI animation"
        src="https://github.com/user-attachments/assets/a8a03709-95ea-486b-999e-31de8c3f2511" />
 </div>
