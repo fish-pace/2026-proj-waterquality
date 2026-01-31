@@ -138,7 +138,7 @@ The main results of this study are presented below.
 <div align="center">
   <b>3.</b> Nitrate mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
   <br><br>
-  <img width="703" height="310" alt="image" src="https://github.com/user-attachments/assets/e4307aab-d834-4bd7-ac5f-b13bf3c9d33b" />
+  <img width="682" height="409" alt="image" src="https://github.com/user-attachments/assets/e4307aab-d834-4bd7-ac5f-b13bf3c9d33b" />
 </div>
 
 <br>
