@@ -5,6 +5,7 @@
 </p>
 
 
+<div align="center">
 
 # PACE-Fish HackWeek 2026
 ## Water Quality parameters in the Northern Gulf of California
