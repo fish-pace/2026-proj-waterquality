@@ -143,13 +143,14 @@ The main results of this study are presented below.
 </div>
 
 <div align="center">
-  <b>5.</b> Chlorophyll High Line Spectral Index in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
+  <b>5.</b> Chlorophyll High Line Spectral Index in the Northern Gulf of California from June 2024 to May 2025.
   <br><br>
 
-  <img width="682"
-       alt="HLSI GIF"
+  <img width="420"
+       alt="HLSI animation"
        src="https://github.com/user-attachments/assets/62e88aaa-f466-476f-8cb3-6dd0f4a308a3" />
 </div>
+
 
 
 
