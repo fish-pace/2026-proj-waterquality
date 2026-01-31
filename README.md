@@ -120,7 +120,7 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>4.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <b>3.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
   <br><br>
   <img width="870" height="355" alt="Screenshot 2026-01-30 at 15 25 29" src="https://github.com/user-attachments/assets/03f2f2de-5698-4c6d-a6e2-550dbd69a278" />
 </div>
@@ -128,7 +128,7 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>5.</b> Silicate concentration (mmol/m³) in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
+  <b>4.</b> Silicate concentration (mmol/m³) in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
   <br><br>
   <img width="682" height="409" alt="Screenshot 2026-01-30 at 15 29 35" src="https://github.com/user-attachments/assets/c93a07c8-b320-46ca-805e-0ae3d51e71a4" />
 </div>
@@ -136,7 +136,7 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>3.</b> Nitrate mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <b>5.</b> Nitrate mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
   <br><br>
   <img width="682" height="409" alt="image" src="https://github.com/user-attachments/assets/e4307aab-d834-4bd7-ac5f-b13bf3c9d33b" />
 </div>
@@ -144,13 +144,13 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>5.</b> Chlorophyll-related indices were calculated using the surface reflectance from Level-3 PACE OCI (4 km).
+  <b>6.</b> Chlorophyll-related indices were calculated using the surface reflectance from Level-3 PACE OCI (4 km).
   <br><br>
   <<img src="https://github.com/user-attachments/assets/b744bd5d-913d-45d1-a568-f447e809c316" alt="Screenshot 2026-01-30 at 15 44 33" width="341" height="205" />
 </div>
 
 <div align="center">
-  <b>6.</b> Chlorophyll High Line Spectral (CHL) Index in the Northern Gulf of California from June 2024 to May 2025.
+  <b>7.</b> Chlorophyll High Line Spectral (CHL) Index in the Northern Gulf of California from June 2024 to May 2025.
   <br><br>
 
   <img width="180"
@@ -159,7 +159,7 @@ The main results of this study are presented below.
 </div>
 
 <div align="center">
-  <b>7.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025.
+  <b>8.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025.
   <br><br>
 
   <img width="180"
