@@ -8,7 +8,7 @@
 <div align="center">
 
 # PACE-Fish HackWeek 2026
-## Seasonal patterns in water quality in the Northern Gulf of California revealed by PACE hyperspectral data
+## Seasonal Patterns in water quality in the Northern Gulf of California revealed by PACE hyperspectral data
 
 </div>
 
