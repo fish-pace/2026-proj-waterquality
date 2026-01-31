@@ -167,11 +167,27 @@ The main results of this study are presented below.
        src="https://github.com/user-attachments/assets/a8a03709-95ea-486b-999e-31de8c3f2511" />
 </div>
 
-
-
-
-
 ## Lessons Learned
+
+## Project Scope and Future Work
+
+With additional data from previous years and other remote sensing variables, this project can be expanded to:
+
+- **Supervised machine learning for anomaly detection**  
+  Use *in situ* observations combined with abiotic variables derived from remote sensing data to develop a supervised machine learning model capable of detecting potential anomalies, such as sudden spikes or significant rate changes.
+
+- **Anomaly-driven spectral analysis**  
+  Apply an anomaly detection system to identify dates of interest, followed by a detailed analysis using the high spectral resolution of **PACE-OCI** to investigate possible causes or contributing components of the observed changes.
+
+- **Gulf-wide analysis**  
+  Extend the study to the entire Gulf to assess the influence of large-scale circulation patterns, ocean currents, and seasonal variability.
+
+- **Colorado River influence**  
+  Incorporate Colorado River dynamics to evaluate its impact on the Gulf, potentially using data or tools such as the **ARSET-Stream platform**.
+
+- **Ecological region reconstruction**  
+  Recreate the five ecological regions of the Gulf using the **PACE-OCI chlorophyll concentration algorithm**, and compare these regions with previously established classifications to identify similarities and differences enabled by this new technology.
+
 
 ## Reference sites
 
