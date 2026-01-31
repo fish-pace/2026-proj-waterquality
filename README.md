@@ -151,13 +151,21 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>6.</b> Chlorophyll-related indices were calculated using the surface reflectance from Level-3 PACE OCI (4 km).
+  <b>6.</b> Phosphate mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <br><br>
+  <img width="682" height="409" alt="image" src="https://github.com/user-attachments/assets/c7056343-66dd-4926-b798-f135aa4d8d1b"" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>7.</b> Chlorophyll-related indices were calculated using the surface reflectance from Level-3 PACE OCI (4 km).
   <br><br>
   <<img src="https://github.com/user-attachments/assets/b744bd5d-913d-45d1-a568-f447e809c316" alt="Screenshot 2026-01-30 at 15 44 33" width="341" height="205" />
 </div>
 
 <div align="center">
-  <b>7.</b> Chlorophyll High Line Spectral (CHL) Index in the Northern Gulf of California from June 2024 to May 2025 (Hyperspectral index). 
+  <b>8.</b> Chlorophyll High Line Spectral (CHL) Index in the Northern Gulf of California from June 2024 to May 2025 (Hyperspectral index). 
   <br><br>
 
   <img width="180"
@@ -166,7 +174,7 @@ The main results of this study are presented below.
 </div>
 
 <div align="center">
-  <b>8.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025 (Hyperspectral index). 
+  <b>9.</b> Maximum Chlorophyll Spectral Index (MCI) in the Northern Gulf of California from June 2024 to May 2025 (Hyperspectral index). 
   <br><br>
 
   <img width="180"
@@ -175,7 +183,7 @@ The main results of this study are presented below.
 </div>
 
 <div align="center">
-  <b>9.</b> Normalized Difference Chlorophyll Index (NDCI) in the Northern Gulf of California from June 2024 to May 2025 (Multiperspectral index). 
+  <b>10.</b> Normalized Difference Chlorophyll Index (NDCI) in the Northern Gulf of California from June 2024 to May 2025 (Multiperspectral index). 
   <br><br>
 
   <img width="180"
