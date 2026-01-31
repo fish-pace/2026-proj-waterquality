@@ -39,8 +39,6 @@ This project aims to evaluate the spatial and temporal dynamics of water quality
 The Gulf of California (GC) is the only interior sea of the Eastern Pacific Ocean and represents the most important fishing area in the northwestern Pacific region. Its location in a temperate–tropical transition zone gives rise to complex climatic, oceanographic, and ecological conditions that strongly influence regional productivity and biodiversity.
 A regionalization of the GC can be described based on three main influences: the northern region affected by discharge from the Colorado River, the central region dominated by island systems, and the southern entrance where two major ocean currents converge. In the upper Gulf, the influence of the Colorado River drives water quality patterns that vary seasonally; however, identifying specific anomalies in these patterns requires detailed in situ observations (Lopez-Martínez et al., 2023; Marín-Enriquez et al., 2024). 
 
-
-
 ## Planning
 
 ## Collaborators
@@ -122,7 +120,7 @@ The main results of this study are presented below.
 <br>
 
 <div align="center">
-  <b>3.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <b>4.</b> Mean water surface temperature (°C) in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
   <br><br>
   <img width="870" height="355" alt="Screenshot 2026-01-30 at 15 25 29" src="https://github.com/user-attachments/assets/03f2f2de-5698-4c6d-a6e2-550dbd69a278" />
 </div>
@@ -133,6 +131,14 @@ The main results of this study are presented below.
   <b>5.</b> Silicate concentration (mmol/m³) in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
   <br><br>
   <img width="682" height="409" alt="Screenshot 2026-01-30 at 15 29 35" src="https://github.com/user-attachments/assets/c93a07c8-b320-46ca-805e-0ae3d51e71a4" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>3.</b> Nitrate mean concentration (mg/m³) by month in the Northern Gulf of California, Mexico, from June 2024 to June 2025.
+  <br><br>
+  <img width="703" height="310" alt="image" src="https://github.com/user-attachments/assets/e4307aab-d834-4bd7-ac5f-b13bf3c9d33b" />
 </div>
 
 <br>
