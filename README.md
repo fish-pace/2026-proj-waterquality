@@ -44,11 +44,11 @@ A regionalization of the GC can be described based on three main influences: the
 
 ## Collaborators
 
-| Name                         | Role                |
-|------------------------------|---------------------|
-| Jose Andres Vargas Solano    | Project Facilitator |
-| Maria Emilia Rechimont       | Participant         |
-| Andrea Rebeca Lara Cera      | Participant         |
+| Name                         | Role                |Affiliation                            |
+|------------------------------|---------------------|---------------------------------------|
+| Jose Andres Vargas Solano    | Project Facilitator |Sapienza, University of Rome           |
+| Maria Emilia Rechimont       | Participant         |National Autonomus University of Mexico|
+| Andrea Rebeca Lara Cera      | Participant         |National Autonomus University of Mexico|
 
 ## Planning
 
@@ -62,6 +62,8 @@ A regionalization of the GC can be described based on three main influences: the
 ## Background
 
 ## Goals
+
+The main goal of this research project for the Fish-PACE HackWeek 2026 is to assess water quality dynamics using hyperspectral remote sensing data from NASA’s PACE Ocean Color Instrument, with phytoplankton-related variables serving as key indicators, in the waters of the northern Gulf of California.
 
 ## Datasets
 
@@ -140,6 +142,14 @@ The main results of this study are presented below.
   <<img src="https://github.com/user-attachments/assets/b744bd5d-913d-45d1-a568-f447e809c316" alt="Screenshot 2026-01-30 at 15 44 33" width="341" height="205" />
 </div>
 
+<div align="center">
+  <b>5.</b> Chlorophyll High Line Spectral Index in the Northern Gulf of California from June 2024 to May 2025 (Copernicus Marine Services, CMS).
+  <br><br>
+
+  <img width="682"
+       alt="HLSI GIF"
+       src="https://github.com/user-attachments/assets/62e88aaa-f466-476f-8cb3-6dd0f4a308a3" />
+</div>
 
 
 
