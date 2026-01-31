@@ -90,11 +90,16 @@ The main goal of this research project for the Fish-PACE HackWeek 2026 is to ass
 | Normalized Maximum Chlorophyll Index        | $MCI_{norm} = \frac{R_{709} - \left[ R_{681} + \frac{(R_{753} - R_{681}) \cdot (709 - 681)}{753 - 681} \right]}{R_{681} + R_{709} + R_{753}}$| Gower et al. (2005)                |
 
 
-## Workflow/Roadmap
+## Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024/25 in the Northern Gulf of California
 
-Workflow Proposal for the Analysis of Water Quality Dynamics through Season 2024/25 in the Northern Gulf of California
-
-<img width="689" height="585" alt="Screenshot 2026-01-30 at 18 47 55" src="https://github.com/user-attachments/assets/9f511d7b-acee-48d4-968f-b47d93fff134" />
+<p align="center">
+  <img
+    width="689"
+    height="585"
+    alt="Workflow diagram for the analysis of water quality dynamics in the Northern Gulf of California"
+    src="https://github.com/user-attachments/assets/9f511d7b-acee-48d4-968f-b47d93fff134"
+  />
+</p>
 
 
 ## Results/Findings
