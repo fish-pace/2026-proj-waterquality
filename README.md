@@ -69,7 +69,7 @@ The main goal of this research project for the Fish-PACE HackWeek 2026 is to ass
 | Dataset                         | Variable                               |
 |---------------------------------|----------------------------------------|
 | PACE-Level-3-AOP                | Chla-Concentration                     |
-| PACE-Level-3-mt-global          | Spectral-indexes                       |
+| PACE-Level-3-mt-global          | Rrs_bands (surfance reflectance        |
 | Temperature                     | Landsat-09 (Thermal Band-10)           |
 | Nitrate (mmmol/m3)              | Copernicus Marine Services             |
 | Phosphate (mmol/m3)             | Copernicus Marine Services             |
