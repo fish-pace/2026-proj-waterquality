@@ -191,6 +191,12 @@ The main results of this study are presented below.
        src="https://github.com/user-attachments/assets/f9f3b90d-c71a-40c5-8b87-53011cf14ac1" />
 </div>
 
+<div align="center">
+  <b>Figure. 11.</b> Statistical analysis of nutrient concentrations by season (upwelling/downwelling) for: A-Nitrate, B-Phosphate, C-Silicate.
+  <br><br>
+  <<img src="https://github.com/user-attachments/assets/c1e226a8-5b62-42e9-bbdb-608f4f014d83"  alt="Screenshot 2026-01-30 at 15 44 33" width="341" height="205" />
+</div>
+
 
 ## Lessons Learned
 
